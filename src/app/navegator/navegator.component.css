@@ -1,0 +1,26 @@
+.topnav{
+    display: flex;
+    width: 100%;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+.search{
+    width: 600px;
+    height: 20px;
+    border-radius: 15px;
+    padding: 10px;
+}
+.boton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 32px;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    cursor: pointer;
+}
